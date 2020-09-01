@@ -37,7 +37,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "babel-polyfill": "6.13.0",
-    "chance": "1.0.4",
+    "chance": "1.1.6",
     "classnames": "^2.2.5",
     "d3": "4.4.1",
     "fetch-retry": "^1.1.1",

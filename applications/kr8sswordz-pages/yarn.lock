@@ -1629,9 +1629,10 @@ chalk@^0.4.0, chalk@~0.4.0:
     has-color "~0.1.0"
     strip-ansi "~0.1.0"
 
-chance@1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/chance/-/chance-1.0.4.tgz#2dbc3ea6ad0541f7f965bd0af25d1ca275c853c4"
+chance@1.1.6:
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/chance/-/chance-1.1.6.tgz#967a0a129e0f342f7c65cd5d20f5ae870a26b8af"
+  integrity sha512-DXLzaGjasDWbvlFAJyQBIwlzdQZuPdz4of9TTTxmHTjja88ZU/vBwUwxxjalSt43zWTPrhiJT0z0N4bZqfZS9w==
 
 character-parser@^2.1.1:
   version "2.2.0"
